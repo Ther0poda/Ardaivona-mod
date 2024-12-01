@@ -1,0 +1,20 @@
+{
+  "infernal_ambience": {
+    "subtitle": "subtitles.infernal_ambience",
+    "sounds": [
+      {
+        "name": "ardaivona:volcanic_ambience",
+        "stream": false
+      }
+    ]
+  },
+  "orb_pings": {
+    "subtitle": "subtitles.orb_pings",
+    "sounds": [
+      {
+        "name": "ardaivona:sonar-sound-effect-230712",
+        "stream": false
+      }
+    ]
+  }
+}
